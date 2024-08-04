@@ -12,7 +12,7 @@ This Flutter project displays job listings from a JSON file and allows filtering
 ## Screenshots
 
 ### Mobile Version
-![Mobile Version](assets/app_images/mobile_image.png)
+<img src="assets/app_images/mobile_image.png" alt="Mobile Version" width="300">
 
 ### Desktop Version
 ![Desktop Version](assets/app_images/desktop_image.png)
