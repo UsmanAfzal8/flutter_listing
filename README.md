@@ -1,16 +1,26 @@
-# flutter_listing
+# Job Listing Flutter Project
 
-A new Flutter project.
+This Flutter project displays job listings from a JSON file and allows filtering according to the stack. The project supports both mobile and desktop versions.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Display job listings from a JSON file
+- Filter jobs based on stack
+- Responsive design for mobile and desktop
+- Hover effect on job cards for desktop view
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Mobile Version
+![Mobile Version](assets/app_images/mobile_image.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Desktop Version
+![Desktop Version](assets/app_images/desktop_image.png)
+![Desktop Version](assets/app_images/desktop_image2.png)
+
+## Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/YourUsername/job-listing-flutter-project.git
+   cd job-listing-flutter-project
