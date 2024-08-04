@@ -18,9 +18,3 @@ This Flutter project displays job listings from a JSON file and allows filtering
 ![Desktop Version](assets/app_images/desktop_image.png)
 ![Desktop Version](assets/app_images/desktop_image2.png)
 
-## Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/YourUsername/job-listing-flutter-project.git
-   cd job-listing-flutter-project
